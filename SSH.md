@@ -1,4 +1,4 @@
-# CLIENT-SERVER
+# SSH-SERVER/REMOTE ACCESS
 Kelompok:
 - Ahmad Firdaus
 - Farrah Labita
